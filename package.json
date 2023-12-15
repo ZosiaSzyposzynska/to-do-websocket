@@ -1,0 +1,15 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "shortid": "^2.2.16",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
